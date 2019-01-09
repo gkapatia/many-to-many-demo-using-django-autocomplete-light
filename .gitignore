@@ -1,0 +1,16 @@
+*.pyc
+.idea
+settings_local.py
+.sass-cache
+*.codekit
+app.css.map
+*.log
+es_log.txt
+.vscode/
+venv
+*.rdb
+.env-*
+.DS_STORE
+*.db
+envpy3/
+penvpy3/
